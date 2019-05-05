@@ -1,0 +1,22 @@
+{
+	"main": {
+		"users": [
+			{
+				"login": "ogrezem",
+				"email": "ogrezem@gmail.com"
+			},
+			{
+				"login": "nigosh",
+				"email": "nigosh@mail.ru"
+			},
+			{
+				"login": "corpus",
+				"email": "corpus@yandex.ru"
+			},
+			{
+				"login": "rex",
+				"email": "rex@yandex.ru"
+			}
+		]
+	}
+}
