@@ -2,18 +2,22 @@
 	"main": {
 		"users": [
 			{
+				"id": 1,
 				"login": "ogrezem",
 				"email": "ogrezem@gmail.com"
 			},
 			{
+				"id": 2,
 				"login": "nigosh",
 				"email": "nigosh@mail.ru"
 			},
 			{
+				"id": 3,
 				"login": "corpus",
 				"email": "corpus@yandex.ru"
 			},
 			{
+				"id": 4,
 				"login": "rex",
 				"email": "rex@yandex.ru"
 			}
